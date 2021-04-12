@@ -26,49 +26,49 @@ var aula3 = {
     urlGithub: ""
 }
 
-var aula31 = {
+var aula4 = {
     nome: "Jogo de Tabuada",
     sobre: "",
     urlCodePen: "https://codepen.io/regisncoelho/pen/xxgwLBj",
     urlGithub: "https://regisncoelho.github.io/jogotabuada/"
 }
 
-var aula4 = {
+var aula5 = {
     nome: "Aves da Mata Atlântica",
     sobre: "",
     urlCodePen: "https://codepen.io/regisncoelho/pen/qBRbKgv",
     urlGithub: ""
 }
 
-var aula5 = {
+var aula6 = {
     nome: "Aluraflix 2",
     sobre: "",
     urlCodePen: "https://codepen.io/regisncoelho/pen/abpNEbz",
     urlGithub: ""
 }
 
-var aula6 = {
+var aula7 = {
     nome: "Tabela de Classificação",
     sobre: "",
     urlCodePen: "https://codepen.io/regisncoelho/pen/BapLxbx",
     urlGithub: ""
 }
 
-var aula7a9 = {
+var aula8 = {
     nome: "Supertrunfo (projeto extra)",
     sobre: "",
     urlCodePen: "https://codepen.io/regisncoelho/pen/poRNZwE",
     urlGithub: "https://regisncoelho.github.io/batalhabey/"
 }
 
-var aula10 = {
+var aula9 = {
     nome: "Certificard",
     sobre: "",
     urlCodePen: "https://codepen.io/regisncoelho/pen/JjEJExE",
     urlGithub: "https://regisncoelho.github.io/certificado-imersaodev/"
 }
 
-aulas = [about, aula1, aula2, aula3, aula31, aula4, aula5, aula6, aula7a9, aula10]
+aulas = [about, aula1, aula2, aula3, aula4, aula5, aula6, aula7, aula8, aula9]
 
 function aboutMe() {
     var corpoTitulo = document.getElementById("sobre-titulo")
