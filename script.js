@@ -9,7 +9,7 @@ var aula1 = {
     nome: "Conversor de Moedas",
     sobre: "<p> O objetivo da aula era criar um conversor de moedas que convertesse dólares em reais.</p> <p> Como parte do desafio, acrescentei outras duas moedas ao conversor e programei a exibição do resultado na tela, ao invés do 'alert'",
     urlCodePen: "https://codepen.io/regisncoelho/pen/WNRNaza",
-    urlGithub: ""
+    urlGithub: "https://regisncoelho.github.io/currencyconverter/"
 }
 
 var aula2 = {
