@@ -7,7 +7,7 @@ var about = {
 
 var aula1 = {
     nome: "Conversor de Moedas",
-    sobre: "<p> O objetivo da aula era criar um conversor de moedas que convertesse dólares em reais.</p> <p> Como parte do desafio, acrescentei outras duas moedas ao conversor e programei a exibição do resultado na tela, ao invés do 'alert'",
+    sobre: "<p> O objetivo da aula era criar um conversor de moedas que convertesse dólares em reais.</p> <p> Como parte do desafio, acrescentei outras duas moedas ao conversor e programei a exibição do resultado na tela, ao invés do 'alert'. O resultado inicial pode ser visto no link do CodePen, abaixo </p> <p> Algum tempo depois da imersãoDEV_, continuando meus estudos em HTML, CSS e JavaScript, revisitei o projeto e promovi melhorias ao código original das aulas utilizando os conhecimentos adquiridos até ali",
     urlCodePen: "https://codepen.io/regisncoelho/pen/WNRNaza",
     urlGithub: "https://regisncoelho.github.io/currencyconverter/"
 }
