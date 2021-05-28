@@ -16,7 +16,7 @@ var aula2 = {
     nome: "Calculadora",
     sobre: "<p> O objetivo da aula era criar um programa que pergunte e armazene dois valores e o usuário escolha qual operação deseja realizar com um número. O resultado inicial pode ser visto no link do CodePen, abaixo. </p> <p> Algum tempo depois da imersãoDEV_, continuando meus estudos em HTML, CSS e JavaScript, revisitei o projeto e promovi melhorias ao código original das aulas utilizando os conhecimentos adquiridos até ali. O resultado pode ser visto no link do Github, abaixo.</p>",
     urlCodePen: "https://codepen.io/regisncoelho/pen/yLgNOwG",
-    urlGithub: ""
+    urlGithub: "https://regisncoelho.github.io/calculator/"
 }
 
 var aula3 = {
