@@ -21,14 +21,14 @@ var aula2 = {
 
 var aula3 = {
     nome: "Mentalista",
-    sobre: "",
+    sobre: "<p> O objetivo da aula era criar um programa que sorteia um número secreto entre 0 e 10, em que o usuário possui três tentativas para acertar esse número. Para auxiliar quem joga, quando o chute é incorreto dizemos se ele é maior ou menos que o número secreto. Quando o chute é correto, informamos o fim do jogo e o valor do número secreto. </p> <p> Algum tempo depois da imersãoDEV_, continuando meus estudos em HTML, CSS e JavaScript, revisitei o projeto e promovi melhorias ao código original das aulas utilizando os conhecimentos adquiridos até ali. O resultado pode ser visto no link do Github, abaixo.</p>",
     urlCodePen: "https://codepen.io/regisncoelho/pen/yLgYXBR",
-    urlGithub: ""
+    urlGithub: "https://regisncoelho.github.io/mentalist/"
 }
 
 var aula4 = {
     nome: "Jogo de Tabuada",
-    sobre: "",
+    sobre: "<p> Utilizando os conhecimentos adquiridos até a aula 3, me propus a desenvolver um jogo em que meu filho de 9 anos pudesse exercitar os conhecimentos de tabuada. A primeira versão do jogo pode ser observada no link do CodePen, abaixo. </p> <p> Algum tempo após a imersãodev_, retornei ao projeto para implementar algumas melhorias no código do jogo em si, bem como no design da página. O resultado pode ser observado no link para o GitHub, abaixo. </p>",
     urlCodePen: "https://codepen.io/regisncoelho/pen/xxgwLBj",
     urlGithub: "https://regisncoelho.github.io/jogotabuada/"
 }
