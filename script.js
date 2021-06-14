@@ -35,9 +35,9 @@ var aula4 = {
 
 var aula5 = {
     nome: "Aves da Mata Atlântica",
-    sobre: "",
+    sobre: "<p> Este projeto foi criado a partir dos aprendizados das Aulas 4 e 5 da imersãodev_, cujos objetivos eram:<ul><li>Criar um programa que permite formar uma coleção de filmes utilizando arrays</li> <li> Criar um programa que armazene imagens e que teste condições antes de apresentá-la</li></ul> </p> <p>Algum tempo depois da imersãoDEV_, continuando meus estudos em HTML, CSS e JavaScript, revisitei o projeto e promovi melhorias ao código original das aulas utilizando os conhecimentos adquiridos até ali. O resultado pode ser visto no link do Github, abaixo.</p>",
     urlCodePen: "https://codepen.io/regisncoelho/pen/qBRbKgv",
-    urlGithub: ""
+    urlGithub: "https://regisncoelho.github.io/birds-album/"
 }
 
 var aula6 = {
