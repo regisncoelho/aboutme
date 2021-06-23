@@ -49,14 +49,14 @@ var aula6 = {
 
 var aula7 = {
     nome: "Tabela de Classificação",
-    sobre: "",
+    sobre: "<p> O objetivo da aula era criar um programa que mostre uma tabela informando as vitórias, empates, derrotas e a quantidade de pontos dos jogadores. Quando cada um dos botões é acionado, a quantidade de pontos referente ao resultado é adicionado ao total daquele jogador</p>",
     urlCodePen: "https://codepen.io/regisncoelho/pen/BapLxbx",
     urlGithub: ""
 }
 
 var aula8 = {
     nome: "Supertrunfo (projeto extra)",
-    sobre: "",
+    sobre: "<p> As aulas 7, 8 e 9 tinham como objetivo criar um jogo estilo 'Super Trunfo'. Ao iniciar são sorteadas duas cartas, uma para o jogador e outra para o computador. O jogador, sem conhecer o poder dos atributos de sua carta, escolhe um dos atributos para batalhar com seu oponente. </p> <p> Seguindo uma paixão do meu filho por Beyblades, modifiquei o projeto original e o transformei num jogo de Batalha de Beyblades </p> <p> Após o término da imersãodev_ continuei implementando o jogo, inserindo mais beyblades, adicionando sons e uma forma mais clara de totalização dos pontos. Esse resultado preliminar pode ser visto no link para o Codepen, abaixo. </p> <p> Após algum tempo estudando HTML, CSS e JavaScript, retornei ao projeto para refatorar o código e promover algumas mudanças na disposição dos itens, sobretudo nos aspectos que haviam sido 'chutados' anteriormente. A versão mais atual encontra-se disponível no link para o Github, abaixo </p>",
     urlCodePen: "https://codepen.io/regisncoelho/pen/poRNZwE",
     urlGithub: "https://regisncoelho.github.io/batalhabey/"
 }
